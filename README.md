@@ -37,7 +37,6 @@ To get started with the Online Clothing Ordering Service, follow these steps:
      index.html
    ```
 
-For more detailed setup and usage instructions, please refer to the [documentation](docs/).
 
 ## Contribution
 
@@ -46,8 +45,6 @@ We welcome contributions from the open-source community. Whether you're a develo
 - Report issues or suggest enhancements by creating a new [issue](https://github.com/Hort1934/Clothes-Shop/issues).
 - Contribute code by forking the repository and submitting a [pull request](https://github.com/Hort1934/Clothes-Shop/pulls).
 - Help improve the documentation by submitting changes or additional information.
-
-Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
